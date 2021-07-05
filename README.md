@@ -9,7 +9,7 @@ var myVar;
 function myFunction() {
 
   myVar =     setTimeout(function() {
-window.open("https://trendyfeature.com")
+window.open("https://graphicsmartz.com")
  }, 3000);
 
 }
@@ -18,6 +18,5 @@ window.open("https://trendyfeature.com")
 
 Feel free to take
 Contact me for any kinda Web Development Work.
-Also visit my latest website: https://trendyfeature.com
 Contact mail: madmaxshishir47@gmail.com
-Facebook Profile: https://www.facebook.com/androryuzaki
+Facebook Profile: https://www.facebook.com/shishirkchowdhury
